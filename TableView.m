@@ -26,7 +26,7 @@
     _array=[[NSMutableArray alloc]init];
     
     [self.tableView registerClass:[UITableViewCell class] forCellReuseIdentifier:@"cell"];
-    
+    //.........
     _refresh=[[UIRefreshControl alloc]init];
     
     //[_refresh beginRefreshing];
