@@ -36,8 +36,8 @@
     self.navigationItem.title=@"Tableview";
     UIBarButtonItem *rbtn=[[UIBarButtonItem alloc]initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(btnclick)];
     self.navigationItem.rightBarButtonItem=rbtn;
-  
-    
+  //
+  //
 }
 
 -(void)ref
